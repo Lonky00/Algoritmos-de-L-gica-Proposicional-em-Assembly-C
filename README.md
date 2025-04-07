@@ -56,7 +56,9 @@ logica-proposicional-c/
    
    python scripts/visualize.py
 
-   🌟 Exemplo de Saída
+   
+   
+🌟 Exemplo de Saída
     Tabela-Verdade (Questão a):
     p | q | p→q | (p∧¬q)→F | Equivalente?
 -----------------------------------
