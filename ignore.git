@@ -1,0 +1,37 @@
+# Ignora executáveis compilados
+*.exe
+*.out
+*.bin
+
+# Ignora arquivos objeto (.o) e bibliotecas (.a)
+*.o
+*.a
+
+# Ignora arquivos temporários do editor/IDE
+*.swp
+*~
+*.bak
+
+# Ignora pastas de build e dependências
+build/
+bin/
+obj/
+
+# Ignora arquivos de configuração local (se houver)
+.env
+*.local
+
+# Ignora logs e arquivos de sistema
+*.log
+*.tmp
+
+# Ignora arquivos do VS Code (opcional)
+.vscode/
+
+# Ignora arquivos do macOS (opcional)
+.DS_Store
+
+# Ignora arquivos gerados pelo GCC
+*.i      # Pré-processado
+*.s      # Assembly
+*.ii     # C++ pré-processado
